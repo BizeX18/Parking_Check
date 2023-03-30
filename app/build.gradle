@@ -47,4 +47,5 @@ dependencies {
     implementation 'com.rengwuxian.materialedittext:library:2.1.4'
     implementation ' uk.co.chrisjenx:calligraphy:2.3.0'
 
+
 }
